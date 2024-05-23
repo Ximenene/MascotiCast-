@@ -48,7 +48,9 @@ rodriguez anaya ximena yamile
         <li>Perro - Charlie</li>
       </ul>
     </section>
+</main>
 
+<main>
     <section id="historiasRescate">
       <h2>Historias de Rescate</h2>
       <article>
@@ -58,7 +60,9 @@ rodriguez anaya ximena yamile
         <p>Max fue encontrado herido, pero después de mucho amor y cuidado, se ha recuperado completamente.</p>
       </article>
     </section>
+</main>
 
+<main>
     <section id="foro">
       <h2>Foro</h2>
       <p>Únete a nuestra comunidad para compartir experiencias y consejos sobre el cuidado de mascotas.</p>
