@@ -83,7 +83,9 @@ rodriguez anaya ximena yamile
         <input type="submit" value="Enviar">
       </form>
     </section>
+</main>
 
+<main>
     <section id="mapaLocalizacion">
       <h2>Encuéntranos</h2>
       <figure aria-label="Mapa de la ubicación">
