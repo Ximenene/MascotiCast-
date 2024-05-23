@@ -79,7 +79,7 @@ rodriguez anaya ximena yamile
         <label for="email">Email:</label><br>
         <input type="email" id="email" name="email" required><br>
         <label for="mensaje">Mensaje:</label><br>
-        <textarea id="mensaje" name="mensaje" rows="4" cols="50" required></textarea><br>
+        <imput texterea id="mensaje" name="mensaje" rows="4" cols="50" required></textarea><br>
         <input type="submit" value="Enviar">
       </form>
     </section>
