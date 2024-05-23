@@ -35,7 +35,8 @@ rodriguez anaya ximena yamile
         <p>Cariño, autenticidad, cuidado y satisfacción del cliente.</p>
       </article>
     </section>
-
+</main>
+<main>
     <section id="catalogo">
       <h2>Catálogo de Mascotas</h2>
       <ul aria-label="Lista de mascotas disponibles para adopción">
