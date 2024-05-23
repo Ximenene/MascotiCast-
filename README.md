@@ -4,7 +4,7 @@ rodriguez anaya ximena yamile
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mascoticas</title>
+  <h2><title>Mascoticas</title></h2>
   <meta name="description" content="Presentamos historias conmovedoras de rescates, testimonios de dueños de mascotas, galerías de fotos y videos adorables, así como foros o espacios para que la comunidad comparta experiencias y consejos. Mascoticas es un lugar donde los amantes de los animales pueden encontrar información útil y disfrutar del amor por sus mascotas.">
   <meta name="keywords" content="mascotas, gatos, perros, adopción, cuidado de animales">
   <meta name="author" content="Xime">
@@ -68,7 +68,9 @@ rodriguez anaya ximena yamile
       <p>Únete a nuestra comunidad para compartir experiencias y consejos sobre el cuidado de mascotas.</p>
       <a href="foro.html">Visita nuestro foro</a>
     </section>
+</main>
 
+<main>
     <section id="formularioContacto">
       <h2>Contáctanos</h2>
       <form aria-label="Formulario de contacto">
