@@ -8,7 +8,7 @@ rodriguez anaya ximena yamile
   <meta name="description" content="Presentamos historias conmovedoras de rescates, testimonios de dueños de mascotas, galerías de fotos y videos adorables, así como foros o espacios para que la comunidad comparta experiencias y consejos. Mascoticas es un lugar donde los amantes de los animales pueden encontrar información útil y disfrutar del amor por sus mascotas.">
   <meta name="keywords" content="mascotas, gatos, perros, adopción, cuidado de animales">
   <meta name="author" content="Xime">
-  <link rel="stylesheet" href="styles.css"> <!-- Enlace a archivo CSS externo -->
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
